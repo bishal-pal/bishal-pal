@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🐡 About Me:
 Working as a Tech Intern!💡<br>Final Year B.Tech Undergrad 🍃<br>Currently working on Next.js & FASTAPI 🌐<br>Web3 x DevOps Enthusiast 🦊
 
 
