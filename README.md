@@ -1,5 +1,5 @@
 # 🐡 About Me:
-Working as a Software Engineer!💡<br>B.Tech Grad 🍃<br>Currently building AI Powered SaaS 🌐<br>Web3 x DevOps Enthusiast 🦊
+Working as an AI Engineer!💡<br>B.Tech Grad 🍃<br>Currently building AI Powered SaaS 🌐<br>Web3 x DevOps Enthusiast 🦊
 
 
 ## 🌐 Socials:
